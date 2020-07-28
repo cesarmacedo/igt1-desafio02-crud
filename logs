@@ -1,0 +1,76 @@
+2020-07-27T16:03:58.435Z [Bank] error: aihajiaj
+2020-07-27T16:04:23.572Z [Bank] error: Error log
+2020-07-27T16:04:42.369Z [Grade] error: Error log
+2020-07-27T16:05:09.593Z [Grade] error: Error log
+2020-07-27T16:07:34.018Z [Grade] error: Error log
+2020-07-27T17:09:26.446Z [Grade] error: data.filter is not a function
+2020-07-27T17:10:56.733Z [Grade] error: data.filter is not a function
+2020-07-27T17:27:11.674Z [Grade] error: [object Object]
+2020-07-27T17:29:05.631Z [Grade] error: Assignment to constant variable.
+2020-07-27T17:35:57.925Z [Grade] error: Grade não encontrada
+2020-07-27T17:36:50.538Z [Grade] error: [object Object]
+2020-07-27T17:37:14.622Z [Grade] error: [object Object]
+2020-07-27T17:42:33.739Z [Grade] error: data.filter is not a function
+2020-07-27T17:43:10.144Z [Grade] error: data.filter is not a function
+2020-07-27T17:46:51.044Z [Grade] error: data.filter is not a function
+2020-07-27T17:47:08.104Z [Grade] error: Cannot read property 'grades' of undefined
+2020-07-27T17:47:38.890Z [Grade] error: Cannot read property 'filter' of undefined
+2020-07-27T17:47:52.488Z [Grade] error: [object Object]
+2020-07-27T17:47:52.493Z [Grade] error: [object Object]
+2020-07-27T17:51:53.461Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:51:53.471Z [Grade] error: [object Object]
+2020-07-27T17:51:53.474Z [Grade] error: [object Object]
+2020-07-27T17:52:34.287Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:52:34.294Z [Grade] error: [object Object]
+2020-07-27T17:52:34.296Z [Grade] error: [object Object]
+2020-07-27T17:53:13.490Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:53:13.494Z [Grade] error: [object Object]
+2020-07-27T17:53:59.698Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:54:51.879Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:55:37.857Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:55:37.884Z [Grade] error: exception is not defined
+2020-07-27T17:56:20.636Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:56:20.642Z [Grade] error: [object Object]
+2020-07-27T17:56:20.646Z [Grade] error: [object Object]
+2020-07-27T17:57:15.391Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:57:15.397Z [Grade] error: [object Object]
+2020-07-27T17:57:46.195Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:57:46.239Z [Grade] error: [object Object]
+2020-07-27T17:58:06.161Z [Grade] warn: Grade id: 1000 não encontrada
+2020-07-27T17:58:06.171Z [Grade] error: Grade não encontrada
+2020-07-27T17:58:49.613Z [Grade] error: Grade id: 1000 não encontrada
+2020-07-27T19:47:24.414Z [Grade] error: myArray is not defined
+2020-07-27T19:48:13.603Z [Grade] error: data.findIndex is not a function
+2020-07-27T19:52:33.895Z [Grade] error: undefined
+2020-07-27T19:54:58.606Z [Grade] error: undefined
+2020-07-27T19:57:13.351Z [Grade] error: Grade id: 59 não encontrada
+2020-07-27T19:58:02.224Z [Grade] error: Grade id: 59 não encontrada
+2020-07-27T19:58:51.869Z [Grade] error: Grade id: 58 não encontrada
+2020-07-27T20:41:25.149Z [Grade] error: Cannot access 'data' before initialization
+2020-07-27T21:18:29.313Z [Grade] error: current is not defined
+2020-07-27T21:37:39.087Z [Grade] error: acumulator is not defined
+2020-07-27T21:38:02.579Z [Grade] error: acumulator is not defined
+2020-07-27T21:51:28.593Z [Grade] error: id is not defined
+2020-07-27T21:52:30.642Z [Grade] error: Materia ou usuario inexistente
+2020-07-27T21:54:53.792Z [Grade] error: Materia ou usuario inexistente
+2020-07-27T22:13:58.031Z [Grade] error: sumNotes is not defined
+2020-07-28T02:54:41.881Z [Grade] error: [search] O nome da atividade é obrigatorio
+2020-07-28T02:56:30.107Z [Grade] error: A materia é obrigatoria
+2020-07-28T03:08:41.708Z [Grade] error: Grade id: top3 não encontrada
+2020-07-28T03:09:07.544Z [Grade] error: Grade id: top3 não encontrada
+2020-07-28T03:09:45.935Z [Grade] error: Grade id: top3 não encontrada
+2020-07-28T03:11:06.429Z [Grade] error: Grade id: top3 não encontrada
+2020-07-28T03:11:11.451Z [Grade] error: Grade id: top3 não encontrada
+2020-07-28T03:13:11.276Z [Grade] error: Cannot read property 'type' of undefined
+2020-07-28T03:14:06.102Z [Grade] error: Cannot read property 'type' of undefined
+2020-07-28T03:15:04.995Z [Grade] error: Cannot read property 'type' of undefined
+2020-07-28T03:56:31.192Z [Grade] error: Grade id: undefined não encontrada
+2020-07-28T03:57:24.665Z [Grade] error: Grade id: undefined não encontrada
+2020-07-28T03:58:29.967Z [Grade] error: Grade id: [object Object] não encontrada
+2020-07-28T03:59:02.887Z [Grade] error: Grade id: [object Object] não encontrada
+2020-07-28T03:59:22.844Z [Grade] error: O nome do estudante é obrigatorio
+2020-07-28T04:00:51.842Z [Grade] error: O id é obrigatorio
+2020-07-28T04:01:08.249Z [Grade] error: O id é obrigatorio
+2020-07-28T04:07:54.852Z [Grade] error: Grade id: 47 não encontrada
+2020-07-28T04:09:10.723Z [Grade] error: Grade id: 47 não encontrada
+2020-07-28T04:21:10.713Z [Grade] error: Materia ou usuario inexistente
